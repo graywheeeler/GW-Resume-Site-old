@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../WebDev"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FinalWebsite"
+	}
+}
